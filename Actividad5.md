@@ -13,7 +13,7 @@ Todos los programas que usamos a diario tienen un código fuente (Python, Java, 
 **4. Lenguaje de programación**  
 Un lenguaje de programación es un lenguaje formal o artificial, compuesto por símbolos y reglas expresadas en forma de instrucciones y relaciones lógicas, en el que se le permite al programador dar órdenes o establecer ciertas acciones consecutivas para la creación de programas.
 
-**5. Sintaxis**
+**5. Sintaxis**  
 La sintaxis se refiere a las reglas y estructuras, como también al orden de palabras y símbolos que se deben seguir al escribir código para que sea válido y comprensible para la computadora.
 Si el programador no sigue la sintaxis de forma adecuada lo más probable es que el código pueda producir errores que impidan que el programa se ejecute, es por eso que el saber la sintaxis de un lenguaje permite entender mejor su función.
 
