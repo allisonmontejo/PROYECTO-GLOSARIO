@@ -165,7 +165,4 @@ Git - Wikipedia, la enciclopedia libre
 Retrollamada (informática) - Wikipedia, la enciclopedia libre
 JavaScript - Wikipedia, la enciclopedia libre
 ¿Qué es un evento en programación? Descubre su importancia y funcionamiento - JMJ INFORMÁTICO
-
-41. TypeScript
-Es un lenguaje basado en JavaScript que agrega características como los tipos estáticos y posteriormente puede convertirse a JavaScript para ejecutarse en entornos compatibles.
 Podemos declarar let edad: number = 17; en TypeScript para indicar que la variable edad debe contener un número.
