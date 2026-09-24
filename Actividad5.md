@@ -1,3 +1,5 @@
+GLOSARIO - FUNDAMENTOS DE COMPUTACIÓN
+
 1. Algoritmo
 El algoritmo es una serie de pasos ordenados que nos permite hallar la solución de un problema o realizar una tarea en específica. El algoritmo está compuesto por una analogía clásica, en la que contiene una entrada (los ingredientes o los pasos iniciales que es lo que entra), el proceso (es donde van las operaciones o procedimiento), y la salida (resultado esperado).
 Por ejemplo, un algoritmo puede servir para seguir un instructivo como el hacer una receta o ya sea para calcular cualquier problema que necesitemos
@@ -141,7 +143,24 @@ Una página web puede solicitar información a un servidor y continuar funcionan
 
 40. JavaScript
 Es un lenguaje de programación utilizado principalmente para agregar comportamiento e interacción a páginas web, aunque también puede utilizarse para desarrollar aplicaciones de servidor y otros tipos de software.
-JavaScript puede utilizarse para hacer que un botón de una página muestre un mensaje al hacer clic
+JavaScript puede utilizarse para hacer que un botón de una página muestre un mensaje al hacer 
+
+REFERENCIAS
+▷ Qué es un Intérprete en Programación
+¿Qué es un compilador? Ejemplos y explicación detallada - ProgramaciónPro
+¿Qué es un depurador? – Definición, funcionamiento y ámbitos de aplicación - IONOS México
+IDE: ¿Qué es y para qué sirve?
+¿Qué es un editor de código y cuál es su función?
+Bibliotecas en programación: qué son y cómo usarlas
+Framework: qué es y para qué sirve, significado, ejemplos, características y tipos
+API: qué es y para qué sirve
+GitHub: qué es, qué es un repositorio y para qué sirve - mentorDay WikiTips
+¿Qué es el control de versiones? - Azure DevOps | Microsoft Learn
+Git - Wikipedia, la enciclopedia libre
+¿Qué es GitHub y Cómo Utilizarlo? » CodigoNautas
+Retrollamada (informática) - Wikipedia, la enciclopedia libre
+JavaScript - Wikipedia, la enciclopedia libre
+¿Qué es un evento en programación? Descubre su importancia y funcionamiento - JMJ INFORMÁTICO
 
 41. TypeScript
 Es un lenguaje basado en JavaScript que agrega características como los tipos estáticos y posteriormente puede convertirse a JavaScript para ejecutarse en entornos compatibles.
