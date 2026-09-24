@@ -1,6 +1,6 @@
 GLOSARIO - FUNDAMENTOS DE COMPUTACIÓN
 
-1. Algoritmo
+1. Algoritmo  
 El algoritmo es una serie de pasos ordenados que nos permite hallar la solución de un problema o realizar una tarea en específica. El algoritmo está compuesto por una analogía clásica, en la que contiene una entrada (los ingredientes o los pasos iniciales que es lo que entra), el proceso (es donde van las operaciones o procedimiento), y la salida (resultado esperado).
 Por ejemplo, un algoritmo puede servir para seguir un instructivo como el hacer una receta o ya sea para calcular cualquier problema que necesitemos
 
