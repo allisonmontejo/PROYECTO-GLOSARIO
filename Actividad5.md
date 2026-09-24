@@ -1,50 +1,50 @@
 GLOSARIO - FUNDAMENTOS DE COMPUTACIÓN
 
-1. Algoritmo  
+*1. Algoritmo*  
 El algoritmo es una serie de pasos ordenados que nos permite hallar la solución de un problema o realizar una tarea en específica. El algoritmo está compuesto por una analogía clásica, en la que contiene una entrada (los ingredientes o los pasos iniciales que es lo que entra), el proceso (es donde van las operaciones o procedimiento), y la salida (resultado esperado).
 Por ejemplo, un algoritmo puede servir para seguir un instructivo como el hacer una receta o ya sea para calcular cualquier problema que necesitemos
 
-2. Programa  
+*2. Programa*  
 Es un conjunto ejecutable escrito por medio de un lenguaje de programación para resolver un problema. Cada conjunto de instrucciones actúa como una serie de pasos que guían a la computadora a realizar las tareas específicas que queramos.
 
-3. Código fuente  
+*3. Código fuente*  
 Todos los programas que usamos a diario tienen un código fuente (Python, Java, C++, o JavaScript), del cual se trata de un conjunto de instrucciones escrita por algún lenguaje de programación que se la da al computador para que entienda y ejecute esa serie de pasos
 
-4. Lenguaje de programación  
+*4. Lenguaje de programación*  
 Un lenguaje de programación es un lenguaje formal o artificial, compuesto por símbolos y reglas expresadas en forma de instrucciones y relaciones lógicas, en el que se le permite al programador dar órdenes o establecer ciertas acciones consecutivas para la creación de programas.
 
-5. Sintaxis
+*5. Sintaxis*
 La sintaxis se refiere a las reglas y estructuras, como también al orden de palabras y símbolos que se deben seguir al escribir código para que sea válido y comprensible para la computadora.
 Si el programador no sigue la sintaxis de forma adecuada lo más probable es que el código pueda producir errores que impidan que el programa se ejecute, es por eso que el saber la sintaxis de un lenguaje permite entender mejor su función.
 
-6. Variable  
+*6. Variable*  
 Es un espacio en la memoria física o virtual de una computadora que se utiliza para guardar un dato cuyo valor puede cambiar durante la ejecución del programa. Cada variable puede tener un nombre asignado que se refiera al valor guardado, dichos datos almacenados pueden cambiar de valor o ser contantes.
 
-7. Constante  
+*7. Constante*  
 Es un dato que guarda un valor que no cambia durante la ejecución de un programa. Ejemplo: PI = 3.1416
 Se trata como una variable común, a excepción de que su valor no puede ser cambiado después de que se haya definido. Las constantes son utilizadas en programas para evitar errores, asegurando que ciertas variables y valores permanezcan sin ser alteradas
 
-8. Tipo de dato  
+*8. Tipo de dato*  
 Indica qué clase de información puede guardar una variable o constante.
 Cada tipo de dato tiene propiedades y operaciones específicas con él, por ejemplo: número entero, decimal, texto, carácter o verdadero/falso.
 
-9. Operador  
+*9. Operador*  
 Es un símbolo que se utiliza para realizar una operación o comparar valores. Ejemplos: +, -, *, /, >, <, ==.
 Los operadores pueden realizar varias acciones como asignar, o comparar valores, realizar cálculos aritméticos, etc
 
-10. Expresión  
+*10. Expresión*  
 Es una combinación de valores, variables y operadores que produce un resultado. Ejemplo: 5 + 3 da como resultado 8.
 Las expresiones pueden ser aritméticas, relacionales, lógicas o de otros tipos, según lo que se quiera lograr
 
-11. Condicional  
+*11. Condicional*  
 Es una estructura que permite que el programa tome una decisión dependiendo de si se cumple una condición. Ejemplo: Si la edad es mayor o igual a 18, mostrar "Mayor de edad".
 Esto permite que los programas sean dinámicos, inteligentes y adaptables.
 
-12. Bucle  
+*12. Bucle*  
 Es una estructura que permite repetir una o varias instrucciones mientras se cumpla una condición o durante un número determinado de veces. Ejemplo: repetir un mensaje 10 veces.
 La información se puede ir cambiando y luego las instrucciones siguientes se aplicarán sobre esos nuevos datos, dando lugar a una enorme cantidad de posibilidades.
 
-13. Función  
+*13. Función*  
 Es un bloque de código que realiza una tarea específica y puede utilizarse varias veces dentro de un programa.
 El nombre de la función, el tipo de dato que retorna y entre paréntesis los parámetros, separados con “,” cada uno con su tipo, y finalmente retorna el resultado para el invocador.
 
